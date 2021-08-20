@@ -1,0 +1,14 @@
+body{
+    background-image:url(pong.jpg);
+    background-color: rgb(4, 4, 134);
+}
+
+#pong{
+    border: 2px solid yellow;
+    position: absolute;
+    margin :auto;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+}
